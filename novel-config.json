@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "version": "1.0",
+    "created": "2026-04-09",
+    "updated": "2026-04-09",
+    "language": "zh-CN"
+  },
+  "book": {
+    "title": "代码修仙录",
+    "author": "root",
+    "genre": "玄幻",
+    "target_words": 1000000,
+    "current_words": 0
+  },
+  "story": {
+    "logline": "一个地球上的996屌丝程序员，在一次加班过程中猝死穿越到修仙世界，经过被压迫、被PUA、在绝境下领悟了上古大能遗落的半吊子系统，要靠写代码来补充能力，从此开挂泡上了宗门的各个美女天骄，逐步成长起来成为守护修仙世界的霸主。",
+    "world": "",
+    "tone": "热血/成长"
+  },
+  "structure": {
+    "volumes": 5,
+    "chapters_per_volume": 30,
+    "volume_titles": [
+      {
+        "num": 1,
+        "title": "卷1",
+        "theme": "[起] 待命名"
+      },
+      {
+        "num": 2,
+        "title": "卷2",
+        "theme": "[承] 待命名"
+      },
+      {
+        "num": 3,
+        "title": "卷3",
+        "theme": "[转] 待命名"
+      },
+      {
+        "num": 4,
+        "title": "卷4",
+        "theme": "[合] 待命名"
+      },
+      {
+        "num": 5,
+        "title": "卷5",
+        "theme": "[续] 待命名"
+      }
+    ]
+  },
+  "progress": {
+    "current_volume": 1,
+    "current_chapter": 0,
+    "written_chapters": [],
+    "archived_chapters": []
+  },
+  "specs": {
+    "characters_dir": "specs/characters",
+    "world_dir": "specs/world",
+    "meta_dir": "specs/meta"
+  },
+  "paths": {
+    "outline_dir": "chapters/outline",
+    "content_dir": "chapters/content",
+    "archive_dir": "chapters/archive",
+    "draft_dir": "chapters/content/draft",
+    "templates_dir": "templates"
+  },
+  "style": {
+    "pov": "third",
+    "tense": "past",
+    "tone": "serious"
+  }
+}
