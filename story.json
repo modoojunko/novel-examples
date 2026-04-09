@@ -23,28 +23,28 @@
     "volume_titles": [
       {
         "num": 1,
-        "title": "卷1",
-        "theme": "[起] 待命名"
+        "title": "代码觉醒",
+        "theme": "[起] 996猝死 → 穿越 → 阴差阳错进宗门 → 练气一层就被欺负"
       },
       {
         "num": 2,
-        "title": "卷2",
-        "theme": "[承] 待命名"
+        "title": "宗门崛起",
+        "theme": "[承] 在宗门内崛起、泡上第一个女主"
       },
       {
         "num": 3,
-        "title": "卷3",
-        "theme": "[转] 待命名"
+        "title": "历练风云",
+        "theme": "[转] 外出历练、结识更多女主、真相初现"
       },
       {
         "num": 4,
-        "title": "卷4",
-        "theme": "[合] 待命名"
+        "title": "世界大战",
+        "theme": "[合] 宗门大战、揭示世界真相、楚凝霜现身"
       },
       {
         "num": 5,
-        "title": "卷5",
-        "theme": "[续] 待命名"
+        "title": "修仙霸主",
+        "theme": "[续] 补全系统、拯救世界、成为霸主"
       }
     ]
   },
@@ -67,7 +67,9 @@
     "templates_dir": "templates"
   },
   "style": {
-    "pov": "third",
+    "pov": "third-omniscient-with-pov-switches",
+    "pov_description": "主要使用第三人称全知视角（有旁白），合适的时候切换到POV视角（主要是女主视角）",
+    "pov_ratio": "80%全知视角，20%POV视角切换",
     "tense": "past",
     "tone": "serious"
   }
